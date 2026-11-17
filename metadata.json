@@ -1,0 +1,6 @@
+{
+  "name": "RoleCalc",
+  "description": "Aplikasi web kalkulator berbasis peran pengguna dengan autentikasi aman, angka dasar spesifik peran, dan arsitektur siap integrasi Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
